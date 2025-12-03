@@ -15,3 +15,4 @@ This repository hosts the source code for *pharmaceutical.github.io*, a static w
 2. Rename the main HTML file to `index.html`, so that it becomes the default landing page for the site.  
 3. Optionally: review and update any links, assets or metadata.  
 4. If using GitHub Pages: enable Pages in the repository settings, and set the branch to `main` (or default branch). The site will then be accessible at:
+https://<your-username>.github.io/pharmaceutical.github.io
