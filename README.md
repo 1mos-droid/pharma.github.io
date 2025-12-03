@@ -129,7 +129,7 @@ This project is open-source.
 
 📞 Contact
 
-Maintainer: Your Name
+Maintainer: Nana Asamoah
 GitHub: Donaldosei
 
 For bugs or feature requests → open an Issue.
